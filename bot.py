@@ -3,7 +3,7 @@ import requests
 import telebot
 from mega import Mega
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
-pip install asyncio --upgrad
+
 
 bot_token = os.environ['BOT_TOKEN']
 mega_email = os.environ['MEGA_EMAIL']
